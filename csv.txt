@@ -1,0 +1,125 @@
+**Förrätter**
+*Serveras med tamarind chatney, mango, mynta och raita*
+1;Papadam;39;Två skivor krispigt linsbröd med mango-chutney
+2;Singara;39;Friterad vegansk pirog. Serveras med mango/mynta-chutney
+3;Mixed Pakora veg;49;Friterad paneer & kompott av grönsaker.
+4;Palak paneer Pakora;59;Deep fried spinach cheese balls.
+5;Vegetable Koppta;59;Vegetarian balls made from fresh vegetables, coriander & chili.
+6;Potatis Pakora;49;Deep fried crushed potatoes with coriander.
+7;Chicken Pakora;55;Deep fried crushed potato and chicken.
+8;Chili Chicken Pakora;55;Crispy fried chicken pieces,chilli & coriander
+9;Chili Lamm pakora;69;Deep fried crushed potato and lamm
+
+**Lindhagen Special**(Mild/Mellan/Stark)
+*Den bengaliska kocken rekommenderar*
+10;Spenat med kyckling/Lamm/Scampi;169/179/189;Lamm / scampi med bladspenat, tomat, ingefära, och färsk koriander sås. (innehåller nötter)
+11;Lamm Khichiri;189;Fried lentil rice and lamb with tomatos, onion, cumin coriander.
+12;Special Minta Lamm;179;Lamb roast fillet, peppers, mushrooms, chili flakes and mint in a spicy korai casserole served with pilao rice on the side
+13;Scampi Mango Curry;199;With grated coconut, coconut milk, carrot and garlic.
+
+**Thali Rätter**(Mild/Mellan/Stark)
+14;Mixed Thali;219;Chicken tikka, lamb korai, scampi grill
+15;Veg Thali;179;Veg korma, chana dall, paneer grill
+
+**Birayani Rätter**
+16;Chicken/Lamm/Veg;169/189/159
+
+**Sizlar Rätter(Mild/Mellan/Stark)
+*Marinerade tandoori-grillade bitar med stekta grönsaker i en krämig och mustig sås:*
+17;Chicken/Lamm/Scampi;169/189/199
+18;Mix Sizlar;219
+19;Mix Chicken Sizlar;169
+20;Chili/Garlic Chicken Sizlar;169
+21;Bengali Tandoori Special;169
+
+**Milda Rätter(Masala)
+22;Chicken/Lamm Tikka Masala;159/189;Grillad kycklingfilé/lammfilé tillagad i krämig och mustig sås. (innehåller nötter)
+23;Mango Chicken Tikka Masala;169;Grillad kycklingfilé tillagad i krämig och mustig sås med färsk mango. (innehåller nötter)
+24;Garlic Chili Chicken Masala;169;Vitlöks och chilimarinerad kycklingfilé tillagad i krämig masalasås.
+25;Scampi Masala;199;Tandoori grilled shrimps and fresh pineapple served with tikka sauce and pilaorice on the side.
+
+**Korma Rätter
+*Nötbaserad krämig mild sås med kokos.
+26;Chicken/Lamm/Scampi;159/189/199
+27;Chili Chicken Korma;169
+28;Motor Poneer Korma;169
+
+**Madras Rätter(Mellan/Stark)
+*Sydindisk traditionell curry och tomatsås. Kokos i en syrlia smak.
+29;Madras med Chicken/Lamm/Scampi;159/189/199
+
+**Balti Rätter(Mellan/Stark)
+*Balti är en syrlig curryblandning med paprika, lök, champinjon och färsk koriander. Välj mellan:
+30;Balti med Chicken / Lamm/Scampi;159/189/199
+31;Mix Balti;199
+
+**Karai Rätter(Mellan/Stark)
+*Korai är en sydindisk curryblandning med kokos, paprika och chili. Välj mellan:
+32;Karai med Chicken/Lamm/ Scampi;169/189/199
+33;Öst Karai;169
+
+**Bengali Street Food
+34;Parata Kabab (Lamm/Chicken);125/110;Två bröd fyllda med hackat kött, paprika, svamp, färsk mynta, koriander och lök. Serveras med raita och chutney
+35;Vegetarisk Parata Rulle;110;Stekta grönsaker & mosad potatis i en paratarulle
+36;Nan Masala Rulle Lamm/Chicken/Spenat Paneer;125/110/115;Lamm, kyckling, spenat Paneer, stekt lök, paprika, svamp, färsk koriander, chili, raita & chutney. Lagt i nan.
+
+**Bengali Koppta Rätter
+37;Vegetarisk Koppata;189;Vegetariska bollar med lök, koriander och färsk mynta. Serveras med en delikat, kryddig curry och tomatsås.
+38;Bengali Lamm Koppta;199;Lammboll med lök, korander och färsk mynta. Serveras med en delikat, kryddig curry och tomatsås.
+
+**Vindaloo Rätter(Stark/Extra Stark)
+*Röd chili-baserad currysås med yughurt och citron. Välj mellan:
+39;Vindaloo med Chicken/Lamm/Scampi;159/189/199
+
+**Curry Rätter(Mild/Mellan/Stark)
+*Tillagad med indiska kryddor, currysås, och tomatsås.
+40;Dal med Chicken/Lamm;159/179
+41;Chicken/Lamm Dopiaza;159/189
+
+**Garlic Rätter(Mild/Mellan/Stark)
+*Tillagad vitlök med currysås och tomatsås
+42;Chicken/Lamm;159/179
+
+**Jhalfraizy Rätter(Mellan/Stark)
+*Tillagad med paprika, friterad lök, stekt chili, färsk koriander i en stark currysås. Välj mellan:
+43;Chicken/Lamm/Scampi;169/189/199
+
+**Vegetariska Rätter(Mild/Mellan/Stark)
+44;Palak Paneer;159;och färsk koriander i sås (innehåller nötter).
+45;Paneer Madras;159;Med kokos och chili.
+46;Paneer Butter Masala;159;Hemlagad färskost tillagad i nötbaserad tomatsås.
+47;Masala Dal(V/C);159;Linser med färsk vitlök, indiska kryddor och curry sås
+48;Vegetarisk Curry(V/C);159;Blandade grönsaker i currysås
+49;Spenat Dal(V/C);159;Bladspenat tillagad med gula linser, med färsk koriander i en mustig currysås.
+50;Aubergine Curry(V/C);169
+
+**Barn Meny
+51;Chicken Korma;120;Kycklingfilé i en nötbaserad krämig mild sås med kokos.
+52;Chicken Tikka Masala;120;Kycklingfilé tillagad i krämig tomatbaserad sås. (Innehåller nötter)
+53;Vegansk Korma;115
+
+**Bröd
+54;Vanlig Naan;25;Lerugnsbakat delikat mjukt bröd
+55;Vitlök Naan;30;Lerugnsbakat bröd med färsk vitlök
+56;Peshwari Naan;40;Inbakat med kokos, russin och mandel
+57;Paneer Naan;40;Lerugnsbakat bröd med hemgjord ost, kryddor
+58;Onion Koriander Naan;40;
+59;Masala Naan;40;Täckt med sesamfrön och svartkummin
+
+**Efterrätter
+60;Mango Lassi;39;Indisk milkshake med yoghurt och mango(salt/söt)
+61;Ice Cream;39;Gammaldags vaniljglass med choklad eller mangosås
+
+**Kaffe och Te
+62;Kaffe eller Te(Vanligt);20
+63;Masala Chae;25;Citron och ingefärs te utan mjölk
+
+**Dryck
+64;Läsk 33cl;20
+65;Lättöl/Juice;20
+
+**Delikat & Tillbehör
+66;Extra Ris;20
+67;Chili Pickel;30
+68;Raita;49;Yoghurtsås med färsk gurka och paprika
+69;Mango chatney;29
