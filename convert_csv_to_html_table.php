@@ -128,8 +128,8 @@ foreach($rows as $row){
             $starttable = 0;    
         }
         $is_info = 0;
-        //echo "<table>";
-        
+
+
         foreach($row as $k => $v){
             echo $v;
             //echo $k . ":" . $v . "<br>";
@@ -239,9 +239,16 @@ function get_as_trx2($data){
     foreach ($data as $col) {
         if($count == $infoTextPosition0i) $ret .= "<td colspan=$firstRowLen class='infotext'>$col</td>";
         else $ret .= "<td>" . format_col($col, $count) . "</td>";
-        $count++;
 
-        if($count==3){
+        if($count == 0 && !is_numeric($col)){
+            //shift row to ignore dish number
+            //to get prices showing with added symbols
+            //assumes whole table have same formatting
+
+            $count++;
+            $infoTextPosition0i++;
+        }
+        if($count==$infoTextPosition0i){
             //definiera ny rads eventuella attribut
             if($moreThanOneCount>0){
                 $tr_ = "<tr class='red_bg'>";
@@ -254,6 +261,9 @@ function get_as_trx2($data){
             $isNewRow = true;
             $moreThanOneCount++;
         }
+        $count++;
+
+
     }
     $ret .= "</tr>\n";
 
